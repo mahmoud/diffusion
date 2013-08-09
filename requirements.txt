@@ -1,0 +1,4 @@
+-e git+https://github.com/mahmoud/wapiti.git#egg=wapiti
+-e git+https://github.com/drkjam/netaddr.git#egg=netaddr
+#greenlet>=0.4.0
+#-e git+https://github.com/SiteSupport/gevent.git#egg=gevent-dev
